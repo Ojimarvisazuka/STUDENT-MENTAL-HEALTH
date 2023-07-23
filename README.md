@@ -34,7 +34,7 @@ For the interactive visual, you can check it out [Here](https://app.powerbi.com/
 
 
 ## Conclusion
-In conclusion, the responses showed that students do truly face mental health challenges. The challenges which include depression, anxiety and panic attacks were more visible in a certain category of students. Students in Year 4 for instance, had less mental health challenges on average in comparison to students in lower levels. Also, married students gave more mental health related responses. Worthy of note is the fact that majority of these affected students did not seek the help of a trained specialist.
+In conclusion, the responses showed that students do truly face mental health challenges. The challenges which include depression, anxiety and panic attacks were more visible in a certain category of students. Students in Year 4 for instance, had less mental health challenges on average in comparison to students in lower levels. Also, married students gave more mental health related responses. Worthy of note, is the fact that majority of these affected students did not seek the help of a trained specialist.
 
 
 ## Recommendations
