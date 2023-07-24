@@ -4,7 +4,7 @@
 
 
 ## Introduction 
-I got the dataset from Quantum Analytics NG as part of my internship programme. The idea behind this project was to understand Student mental health and the sort of mental health challenges they face. The dataset, a csv file, is a single table with 101 rows and 12 columns. It collected by a survey conducted by Google Forms from University students to examine their current academic situation. The pattern of responses were studied and valuable insights were generated using Power BI.
+I got the dataset from Quantum Analytics NG as part of my internship programme. The idea behind this project was to understand Student mental health and the sort of mental health challenges they face. The dataset, a csv file, is a single table with 101 rows and 12 columns. It was collected by a survey conducted by Google Forms from University students to examine their current academic situation. The pattern of responses were studied and valuable insights were generated using Power BI.
 
 
 ## Problem Statement
